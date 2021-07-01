@@ -1,0 +1,10 @@
+{
+  "name": "Save the Moment",
+  "description": "Bookmark video with timestamps",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage", "activeTab", "scripting"]
+}
